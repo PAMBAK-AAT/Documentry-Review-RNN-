@@ -1,0 +1,14 @@
+
+
+ipykernel ## When you write Python code in a Jupyter Notebook, ipykernel is the engine that runs your code in the background.
+numpy ## NumPy helps you work with numbers, arrays, and matrices very efficiently.means mathematical calc.
+pandas ## A library for working with data (tables).
+matplotlib ## Matplotlib helps you draw graphs and charts.
+seaborn ## Seaborn makes beautiful and advanced graphs with less code.
+flask ## Flask lets you build websites and APIs using Python.
+memory_profiler ## A tool to check memory usage of Python code.
+streamlit ##  Streamlit lets you turn Python scripts into websites without HTML/CSS.
+scikit-learn ## “We install scikit-learn to easily implement machine learning algorithms, preprocess data, train models, and evaluate their performance efficiently without writing complex logic from scratch.
+keras
+tensorboard
+tensorflow
