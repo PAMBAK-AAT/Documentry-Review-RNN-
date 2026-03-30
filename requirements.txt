@@ -11,4 +11,4 @@ streamlit ##  Streamlit lets you turn Python scripts into websites without HTML/
 scikit-learn ## “We install scikit-learn to easily implement machine learning algorithms, preprocess data, train models, and evaluate their performance efficiently without writing complex logic from scratch.
 keras
 tensorboard
-tensorflow
+tensorflow-cpu
